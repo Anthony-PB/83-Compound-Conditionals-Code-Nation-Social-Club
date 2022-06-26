@@ -1,0 +1,38 @@
+body {
+    background-color: #90E0F3;
+    padding-top: 50px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.catchyn {
+    text-align: center;
+    color: #00A676;
+    font-weight: lighter;
+}
+
+.login {
+    width: 350px;
+    margin: 0 auto;
+    background-color: #461220;
+    border: 1px solid rgb(200, 200, 200);
+    border-top: 3px solid #0080ff;
+    padding: 30px 25px;
+    color: #9381FF;
+}
+
+p {
+    color: #9381FF;
+}
+
+input {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+button {
+    display: block;
+    font-size: 16px;
+    padding: 10px 20px 8px;
+    margin-top: 20px;
+    color: #ED254E;
+}
